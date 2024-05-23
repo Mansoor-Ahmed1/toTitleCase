@@ -1,7 +1,7 @@
 {
-  "name": "totitlecase",
-  "version": "1.0.0",
-  "description": "",
+  "name": "to_title_case_by_mansoor",
+  "version": "1.0.1",
+  "description": "You can input any sentence/word to convert it into title case.",
   "main": "main.js",
   "type": "module",
   "scripts": {
